@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/SolarZip/', // 部署到 GitHub Pages 的仓库名
   lang: 'zh-CN',
   locales: {
     '/': {

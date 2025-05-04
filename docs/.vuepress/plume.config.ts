@@ -21,7 +21,13 @@ export default defineThemeConfig({
    * 文章版权信息
    * @see https://theme-plume.vuejs.press/guide/features/copyright/
    */
-  copyright: 'CC-BY-NC-SA-4.0', // 文章版权信息
+  copyright:{
+    license: 'CC-BY-NC-SA-4.0', // 版权协议
+    author: {
+      name: 'Siyi Zhao', // 版权作者
+      url: 'https://github.com/SiyiZhao/' // 版权作者链接
+    },
+  },  
 
   prevPage: true,   // 是否启用上一页链接
   nextPage: true,   // 是否启用下一页链接

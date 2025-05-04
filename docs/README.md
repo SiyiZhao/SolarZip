@@ -3,12 +3,14 @@ pageLayout: home
 externalLinkIcon: false
 config:
   -
-    type: hero
-    full: true
-    background: tint-plate
+    type: banner
+    banner: https://api.dujin.org/bing/1920.php
+    bannerMask:
+      light: 0.5
+      dark: 0.6
     hero:
       name: SolarZip
-      # tagline: VuePress Next Theme
+      tagline: 游鱼在釜戏菱花，处堂燕雀安颓厦
       text: Zip the knowledge and thoughts in the Solar System!
       actions:
         -

@@ -18,6 +18,10 @@ config:
           text: 博客
           link: /blog/
         -
+          theme: brand
+          text: 笔记
+          link: /notes/
+        -
           theme: alt
           text: Github →
           link: https://github.com/SiyiZhao/SolarZip

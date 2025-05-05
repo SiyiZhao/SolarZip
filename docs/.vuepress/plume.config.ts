@@ -54,9 +54,9 @@ export default defineThemeConfig({
       profile: {
         avatar: 'images/logo.jpeg',
         name: '二向箔',
-        description: 'Zip the knowledge and thoughts in the Solar System! ',
+        description: '“游鱼在釜戏菱花，处堂燕雀安颓厦”',
         circle: true,
-        location: 'Beijing, China',
+        location: '北京',
         // organization: '',
       },
 
@@ -80,7 +80,7 @@ export default defineThemeConfig({
        */
       profile: {
         avatar: 'images/logo.jpeg',
-        name: 'SolarZip',
+        name: 'SolarZipper',
         description: 'Zip the knowledge and thoughts in the Solar System! ',
         circle: true,
         location: 'Beijing, China',

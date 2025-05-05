@@ -53,7 +53,7 @@ export default defineThemeConfig({
        */
       profile: {
         avatar: 'images/logo.jpeg',
-        name: 'SolarZip',
+        name: '二向箔',
         description: 'Zip the knowledge and thoughts in the Solar System! ',
         circle: true,
         location: 'Beijing, China',

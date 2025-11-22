@@ -9,7 +9,8 @@ export const zhNavbar = defineNavbarConfig([
     text: '笔记',
     items: [
       { text: '示例', link: '/notes/demo/README.md' },
-      { text: '宇宙暴胀', link: '/notes/inflation/README.md' }
+      { text: '宇宙暴胀', link: '/notes/inflation/README.md' },
+      { text: '宇宙学数值模拟', link: '/notes/cosmsim/README.md' }
     ]
   },
 ])

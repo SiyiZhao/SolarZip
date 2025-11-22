@@ -1,5 +1,7 @@
 # solar-zip
 
+https://siyizhao.github.io/SolarZip/ 
+
 The Site is generated using [vuepress](https://vuepress.vuejs.org/) and [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume)
 
 ## Install
@@ -19,6 +21,8 @@ npm run docs:build
 npm run docs:preview
 # update vuepress and theme
 npm run vp-update
+# upload to github pages
+npm run deploy
 ```
 
 ## Documents

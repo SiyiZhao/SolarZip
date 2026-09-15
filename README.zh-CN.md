@@ -10,6 +10,14 @@ npm i
 
 ## Usage
 
+The publish pipeline is in `deploy.sh`. Directly run
+
+```sh
+bash deploy.sh
+```
+
+Or for development, you can run the following commands:
+
 ```sh
 # 启动开发服务
 npm run docs:dev
